@@ -1,5 +1,5 @@
 # ADK
-African Diety Kombat an African 3D game using C# Unity Engine, A Single and MultiPlayer Game Using Bluetooth, LAN and Network(Online).
+African Diety Kombat an African 3D game an AI Machine Learning Intelligence Agent that uses its Learning Models to understand its skills, next actions and utilizes various Physics Mechanisms in Robotics like physical quantities(force, acceleration, impulse, moment, fiction etc), sensory algorithms and software prototypes of AI using C# Unity Engine. A Single and MultiPlayer Game Using Bluetooth, LAN and Network(Online).
 Inspired by Yoruba gods.
 
 
