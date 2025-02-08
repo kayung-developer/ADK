@@ -1,4 +1,5 @@
-# 🎮 African Deity Kombat (ADK)
+![ADKlogo](https://github.com/user-attachments/assets/2781c779-d47f-4a0a-9b9d-a1acb25cc8d7) 
+##  African Deity Kombat (ADK)
 
 ## Overview
 **African Deity Kombat (ADK)** is a revolutionary AI-powered 3D fighting game inspired by the rich mythology of African deities, particularly Yoruba gods. The game integrates cutting-edge **Artificial Intelligence (AI), Machine Learning (ML), and Robotics-inspired Physics** to create an immersive and interactive gaming experience.
@@ -75,9 +76,8 @@ More images can be found in our **[Gallery](link_to_gallery_page)**.
 ## Video Preview
 Check out our gameplay preview below:
 
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-For more videos, visit our **[YouTube Channel](https://www.youtube.com/channel/YOUR_CHANNEL_ID)**.
+<iframe src="https://drive.google.com/file/d/YOUR_VIDEO_ID/preview" width="640" height="360" allow="autoplay"></iframe>
 
 ---
 ## Useful Links
