@@ -1,20 +1,110 @@
-# ADK
-African Diety Kombat an African 3D game an AI Machine Learning Intelligence Agent that uses its Learning Models to understand its skills, next actions and utilizes various Physics Mechanisms in Robotics like physical quantities(force, acceleration, impulse, moment, fiction etc), sensory algorithms and software prototypes of AI using C# Unity Engine. A Single and MultiPlayer Game Using Bluetooth, LAN and Network(Online).
-Inspired by Yoruba gods.
+# 🎮 African Deity Kombat (ADK)
 
-![image_002_0852](https://github.com/kayung-developer/ADK/assets/70010666/5449c359-83cc-4ae2-9d5e-203061ffd832)
-![image_002_0851](https://github.com/kayung-developer/ADK/assets/70010666/e0538271-9d02-4def-9109-4fc425b9ec18)
-![image_002_0850](https://github.com/kayung-developer/ADK/assets/70010666/21ac77a0-ae38-4434-97cb-4a5886f8c246)
-![image_002_0849](https://github.com/kayung-developer/ADK/assets/70010666/27cf3322-8e92-40f2-958a-11a08ba54393)
-![image_002_0848](https://github.com/kayung-developer/ADK/assets/70010666/8330e713-447c-4eb4-83c7-b96eb6e478dc)
-![image_002_0847](https://github.com/kayung-developer/ADK/assets/70010666/5f5e19da-01d2-4f4a-9dfe-fd07a9173800)
-![image_002_0846](https://github.com/kayung-developer/ADK/assets/70010666/d5edc769-f835-453e-aa03-6504f02310fc)
-![image_002_0833](https://github.com/kayung-developer/ADK/assets/70010666/5170d0fb-b897-445f-93c8-ceda2d791cf5)
-![image_002_0832](https://github.com/kayung-developer/ADK/assets/70010666/fafebcfd-9f6e-4463-8928-f5959301e121)
-![image_002_0829](https://github.com/kayung-developer/ADK/assets/70010666/0b08ac8d-94b3-4f36-8392-a71c2b7ae29f)
-![image_002_0828](https://github.com/kayung-developer/ADK/assets/70010666/e5785d11-0c45-44e0-bb7d-422ba3d5b750)
-![image_002_0819](https://github.com/kayung-developer/ADK/assets/70010666/9d4e2c01-3075-4ed6-ba71-e3e246aea956)
-![image_002_0813](https://github.com/kayung-developer/ADK/assets/70010666/10de6268-da79-4f9f-b083-2722b7676341)
+## Overview
+**African Deity Kombat (ADK)** is a revolutionary AI-powered 3D fighting game inspired by the rich mythology of African deities, particularly Yoruba gods. The game integrates cutting-edge **Artificial Intelligence (AI), Machine Learning (ML), and Robotics-inspired Physics** to create an immersive and interactive gaming experience.
 
+Developed using **C# and Unity Engine**, ADK features both **single-player** and **multiplayer** modes with **Bluetooth, LAN, and Online Network** connectivity. The game is designed to educate, entertain, and showcase African folklore through a digital and interactive medium.
 
-https://drive.google.com/file/d/1Kqgt-pkIZBPK9P7HpBmK4LrUz9V_fJst/view?usp=sharing
+---
+## Features
+
+### 🎮 **Advanced AI & ML Mechanics**
+- AI-powered NPCs that learn and adapt to player strategies.
+- Machine Learning models built with **TensorFlow** and **PyTorch** to train game AI agents.
+- NPCs evolve over time based on in-game events and experiences.
+
+### 🏆 **Realistic Physics & Robotics-Based Animation**
+- Integration of physical quantities like **force, acceleration, impulse, friction, and moment** to enhance character movements.
+- **Sensory algorithms** for real-world-like NPC reactions to player interactions.
+- AI-driven character movements and animation to ensure smooth, dynamic gameplay.
+
+### 🌍 **Cultural Representation & Storytelling**
+- Deeply rooted in **Yoruba mythology**, introducing African deities as playable characters.
+- Authentic storytelling with ethical AI implementation to **preserve and showcase African heritage**.
+
+### 👾 **Multiplayer Functionality**
+- Supports **Bluetooth, LAN, and Online Network** gameplay.
+- Seamless multiplayer experience with minimal latency.
+- Balanced AI for engaging PvP and PvE battles.
+
+### 🎨 **3D Character Design & Automation**
+- Created diverse **African deity-inspired characters** using **Character Creator** and **Unity Engine**.
+- Automated 3D character generation for realistic and culturally authentic avatars.
+- Enhanced graphics optimized for different device performance levels.
+
+---
+## Technical Implementation
+
+### 🔥 **Technologies Used**
+- **Game Engine**: Unity (C#)
+- **AI & ML**: TensorFlow, PyTorch
+- **Physics Simulation**: Robotics-based physical principles
+- **Networking**: Bluetooth, LAN, Online Multiplayer
+- **Graphics & Animation**: Unity Animation System, 3D Character Creator
+
+### ⚙ **Challenges & Solutions**
+| Challenge | Solution |
+|-----------|----------|
+| Debugging complex AI models | Continuous testing and tuning of ML models |
+| Graphics compatibility for Yoruba-inspired characters | Scalable assets for different GPU capabilities |
+| Multiplayer latency issues | Network optimization for low-latency interaction |
+| Cross-platform performance optimization | Dynamic asset loading and scalable graphic settings |
+| Ethical AI integration | Ensured fair and unbiased AI decision-making |
+
+---
+## Future Roadmap
+- 🚀 **Expand AI complexity** to create even more adaptive NPCs.
+- 🌎 **Add more African folklore & deities** to diversify content.
+- 🎭 **Enhance storytelling elements** with deeper lore integration.
+- 📡 **Optimize cross-platform performance** for seamless gameplay.
+- 🎮 **Global market launch** across multiple gaming platforms.
+- 🔥 **VR & AR Integration** for a more immersive gaming experience.
+- 💡 **Community Involvement** to allow user-generated content and modding support.
+
+---
+## Screenshots
+Here are some previews of **African Deity Kombat (ADK):**
+
+![Screenshot 1](link_to_screenshot1.png)
+![Screenshot 2](link_to_screenshot2.png)
+![Screenshot 3](link_to_screenshot3.png)
+
+More images can be found in our **[Gallery](link_to_gallery_page)**.
+
+---
+## Video Preview
+Check out our gameplay preview below:
+
+[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+For more videos, visit our **[YouTube Channel](https://www.youtube.com/channel/YOUR_CHANNEL_ID)**.
+
+---
+## Useful Links
+- 🎮 **[Official Website](https://obodongp.com)**
+- 📂 **[GitHub Repository](https://github.com/AfricanDeityKombat)**
+- 💬 **[Community Forum](link_to_community_forum)**
+- 📰 **[Latest Updates](link_to_latest_updates)**
+
+---
+## Contributors
+### **Project Leads:**
+- **Olayiwola Akabashorun** – CEO, Obodon Group
+- **Slogan Technologies** – Development Partner & Co-Founder
+
+### **Key Contributor:**
+- <a href="https://linkedin.com/in/kayung-developer">**Pascal Oryiman Aondover**</a> – AI/ML, Robotics & Game Development Expert (Co-Founder)
+
+---
+## Contact & Support
+📍 **Obodon Group Inc.**  
+📧 **Email:** princelillwitty@gmail.com, Laiakabash@hotmail.com  
+🌐 **Website:** [https://sites.google.com/view/slogantechnologies] (https://sites.google.com/view/slogantechnologies) [https://obodongp.com](https://obodongp.com)  
+
+🔗 **GitHub Repository:** [African Deity Kombat (ADK)](https://github.com/ADK)
+
+---
+## License
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute.
+
+🚀 **Experience the Power of African Mythology in Gaming!**
