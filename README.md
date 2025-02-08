@@ -76,8 +76,8 @@ More images can be found in our **[Gallery](link_to_gallery_page)**.
 ## Video Preview
 Check out our gameplay preview below:
 
+[🎥 Watch the Gameplay Video](https://drive.google.com/file/d/YOUR_FILE_ID/view)
 
-<iframe src="https://drive.google.com/file/d/YOUR_VIDEO_ID/preview" width="640" height="360" allow="autoplay"></iframe>
 
 ---
 ## Useful Links
