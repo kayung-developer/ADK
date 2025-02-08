@@ -99,7 +99,7 @@ For more videos, visit our **[YouTube Channel](https://www.youtube.com/channel/Y
 ## Contact & Support
 📍 **Obodon Group Inc.**  
 📧 **Email:** princelillwitty@gmail.com, Laiakabash@hotmail.com  
-🌐 **Website:** [https://sites.google.com/view/slogantechnologies] (https://sites.google.com/view/slogantechnologies) [https://obodongp.com](https://obodongp.com)  
+🌐 **Website:** [https://sites.google.com/view/slogantechnologies](https://sites.google.com/view/slogantechnologies) [https://obodongp.com](https://obodongp.com)  
 
 🔗 **GitHub Repository:** [African Deity Kombat (ADK)](https://github.com/ADK)
 
